@@ -1,0 +1,8 @@
+c:\users\brijesh\documents\visual studio 2015\Projects\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.dll
+c:\users\brijesh\documents\visual studio 2015\Projects\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.pdb
+c:\users\brijesh\documents\visual studio 2015\Projects\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+c:\users\brijesh\documents\visual studio 2015\Projects\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.code.resources
+c:\users\brijesh\documents\visual studio 2015\Projects\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.prac.resources
+c:\users\brijesh\documents\visual studio 2015\Projects\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csproj.GenerateResource.Cache
+c:\users\brijesh\documents\visual studio 2015\Projects\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.dll
+c:\users\brijesh\documents\visual studio 2015\Projects\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.pdb
